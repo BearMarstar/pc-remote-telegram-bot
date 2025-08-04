@@ -21,7 +21,7 @@
 
 📦 Установка
 
-git clone https://github.com/yourusername/pc-control-bot.git
+git clone https://github.com/BearMarstar/pc-control-bot.git
 cd pc-control-bot
 pip install -r requirements.txt
 
@@ -49,7 +49,7 @@ Control your Windows PC via Telegram. Supported commands include shutdown, resta
 
 📦 Installation
 
-git clone https://github.com/yourusername/pc-control-bot.git
+git clone https://github.com/BearMarstar/pc-control-bot.git
 cd pc-control-bot
 pip install -r requirements.txt
 
